@@ -142,28 +142,6 @@ Transforming raw data into dashboards, reports and actionable business insights.
 <p align="left">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
 </p>
-
----
-
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=soutiktalukder999&bg_color=0D1117&color=00F7FF&line=7B61FF&point=FFFFFF&area=true&hide_border=true" width="100%"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=soutiktalukder999&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1" />
-
-</div>
-
 ---
 
 # 🚀 Current Mission
