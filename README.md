@@ -145,17 +145,6 @@ Transforming raw data into dashboards, reports and actionable business insights.
 
 ---
 
-# 🔥 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=soutiktalukder999&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=7B61FF&text_color=FFFFFF" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soutiktalukder999&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" height="180"/>
-
-</div>
-
----
 
 # 📈 Contribution Graph
 
@@ -218,15 +207,6 @@ Production-ready Systems
 
 ---
 
-# 📊 Developer Metrics
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=soutiktalukder999&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=7B61FF&currStreakLabel=00F7FF" />
-
-</div>
-
----
 
 # 💡 Developer Philosophy
 
